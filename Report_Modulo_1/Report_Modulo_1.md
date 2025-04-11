@@ -31,11 +31,19 @@ Ultimately, this initiative aims to professionalize audience engagement and data
 
 #### Swot Analysis
 
+<img src="../assets/modulo_1/SWOT_Analysis_M1S2.jpeg"/>
+
 #### Business Model Canvas
+
+<img src="../assets/modulo_1/BMC_M1S2.jpeg"/>
 
 #### Risk Matrix
 
+<img src="../assets/modulo_1/Risk_Matrix_M1S2.jpeg"/>
+
 #### Blue Ocean Strategy
+
+<img src=""/>
 
 ### 2. Interview Reports
 
