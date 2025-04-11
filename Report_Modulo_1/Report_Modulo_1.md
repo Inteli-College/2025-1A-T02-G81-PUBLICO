@@ -43,14 +43,71 @@ Ultimately, this initiative aims to professionalize audience engagement and data
 
 #### Blue Ocean Strategy
 
-<img src=""/>
+<img src="../assets/modulo_1/BlueOcean_M1S2.png"/>
 
 ### 2. Interview Reports
 
+#### Interview Booking
+
+#### Interview Template
+
+#### Interviews Report
+
 ### 3. Market Validation
+
+#### Product Adhesion Forms
+
+#### Product Adhesion Results
 
 ### 4. Macro Definition
 
+#### Gamefied App
+
+#### eSports Consulting Product
+
 ## New Insights
+Throughout our research, we identified numerous needs expressed by both professionals and fans. These insights will be essential for developing new ideas and reinforcing the foundations of our current concepts.
+
+- Sponsors represent the top-of-funnel market.
+
+- The market is highly passionate but exhibits a frustrating lack of professionalism.
+
+- The emotions experienced by spectators and those who work to foster competitiveness are truly unparalleled.
+
+- Effectively leveraging fans' desire for exhibitionism and stimulating the competitive spirit of proving who is the most devoted supporter is crucial.
+
+- Large clubs derive approximately 30% of their revenue from merchandising.
+
+- Publishers consistently seek to expand their competition calendar but require serious organizations and well-executed projects.
+
+- The market, in general, is poorly collaborative.
+
+- There is a significant lack of tools in the industry, both for data analysis and for assisting professionals in their daily operations.
+
+- Most eSports companies struggle with organizational culture issues.
+
+- Organizations lack precise knowledge of their fan base size.
+
+- There is a substantial opportunity to leverage partner organizations for our own brand promotion.
+
+- There is a need for more information about the games the audience watches, such as schedules, statistics, and general details.
+
+- Research indicates that viewers struggle to find where to watch matches or follow championship stages.
+
+- Top players are not well connected to the community.
+
+- Some viewers have difficulty finding updates on team changes, such as player transfers and roster acquisitions.
+
+- Most fans would like more interviews with coaches and players.
+
+- The top priority for our app should be a well-designed UI to ensure a smooth and enjoyable daily user experience.
+
+- LAN events and online events feel fundamentally different.
+
+- The production quality of LAN events is generally superior to online ones.
+
+- Even without a live audience, playing in a LAN environment provides a better competitive experience.
 
 ## Next Steps
+
+For the next module we are looking forward to develop the our App
