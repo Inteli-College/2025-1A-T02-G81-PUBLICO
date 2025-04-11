@@ -110,4 +110,4 @@ Throughout our research, we identified numerous needs expressed by both professi
 
 ## Next Steps
 
-For the next module we are looking forward to develop the our App
+For the next module, our focus will be on developing the core features of our application and conducting private testing to evaluate the effectiveness of the user experience. In parallel, we will finalize all functional requirements, implement the DevOps infrastructure, and define key security measures, while also advancing the design phase. Additionally, we plan to launch our company’s content creation strategy, producing materials that showcase the app’s main features and help strengthen our brand identity. Lastly, we will continue expanding our professional network through interviews and strategic connections, maintaining a forward-looking approach to the development of our consulting product.
