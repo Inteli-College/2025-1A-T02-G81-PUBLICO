@@ -44,13 +44,13 @@ We scheduled five interviews with professionals working in various areas of the 
 
 We structured our reusable interview report template into three parts, aiming for a 25 to 30-minute interview:
 
-Project Pitch Deck and Context, along with Our Presentation (5 min): In this section, we aim to observe the person's reaction to the project, also paying attention to non-verbal cues to understand their thoughts and feelings about it.
+- Project Pitch Deck and Context, along with Our Presentation (5 min): In this section, we aim to observe the person's reaction to the project, also paying attention to non-verbal cues to understand their thoughts and feelings about it.
 
-Interviewee Presentation (5 min): We ask the person about their daily work, seeking insights into the market, visible pain points they experience, and potential opportunities we can explore. This also helps us get to know the interviewee better.
+- Interviewee Presentation (5 min): We ask the person about their daily work, seeking insights into the market, visible pain points they experience, and potential opportunities we can explore. This also helps us get to know the interviewee better.
 
-Market Validation Questions (15–20 min): We select three key questions based on the person's role and expertise. During this section, we take detailed notes on their answers, as well as any additional insights their responses may provide.
+- Market Validation Questions (15–20 min): We select three key questions based on the person's role and expertise. During this section, we take detailed notes on their answers, as well as any additional insights their responses may provide.
 
-Extra: If time permits, we will ask an additional key question or, as a secondary option, allow the interviewee to ask us any questions.
+- Extra: If time permits, we will ask an additional key question or, as a secondary option, allow the interviewee to ask us any questions.
 
 #### Interviews Report
 
