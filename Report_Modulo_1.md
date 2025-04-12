@@ -32,7 +32,21 @@ Ultimately, this initiative aims to professionalize audience engagement and data
 #### Overview
 We developed a business plan that integrates multiple business model templates and market analyses to support the strategic direction of the company. This document helps us reinforce our strengths, address our weaknesses, and ensure we remain aligned with our core purpose and value proposition.
 
-#### PDF
+#### Business Model Canvas
+
+<img src="./assets/modulo_1/BMC.png"/>
+
+#### SWOT Analysis
+
+<img src="./assets/modulo_1/SWOT.png"/>
+
+#### Risk Matrix
+
+<img src="./assets/modulo_1/Risk.png"/>
+
+#### Blue Ocean Strategy
+
+<img src="./assets/modulo_1/Blueocean.png"/>
 
 ### 2. Interview Reports
 
