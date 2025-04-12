@@ -29,41 +29,82 @@ Ultimately, this initiative aims to professionalize audience engagement and data
 
 ### 1. Business Plan
 
-#### Swot Analysis
+#### Overview
+We developed a business plan that integrates multiple business model templates and market analyses to support the strategic direction of the company. This document helps us reinforce our strengths, address our weaknesses, and ensure we remain aligned with our core purpose and value proposition.
 
-<img src="../assets/modulo_1/SWOT_Analysis_M1S2.jpeg"/>
-
-#### Business Model Canvas
-
-<img src="../assets/modulo_1/BMC_M1S2.jpeg"/>
-
-#### Risk Matrix
-
-<img src="../assets/modulo_1/Risk_Matrix_M1S2.jpeg"/>
-
-#### Blue Ocean Strategy
-
-<img src="../assets/modulo_1/BlueOcean_M1S2.png"/>
+#### PDF
 
 ### 2. Interview Reports
 
 #### Interview Booking
 
+We scheduled five interviews with professionals working in various areas of the eSports industry, including data analysts, former professional players, staff members, casters, broadcast coordinators, and relationship coordinators. These individuals represent five different organizations, ranging from game publishers to eSports teams. Our goal was to engage with professionals who could complement our understanding of how eSports companies make decisions and define their strategies. Through these conversations, we were able to validate many of our initial hypotheses while also gaining valuable insights and new ideas based on current market needs and strengths.
+
 #### Interview Template
+
+We structured our reusable interview report template into three parts, aiming for a 25 to 30-minute interview:
+
+Project Pitch Deck and Context, along with Our Presentation (5 min): In this section, we aim to observe the person's reaction to the project, also paying attention to non-verbal cues to understand their thoughts and feelings about it.
+
+Interviewee Presentation (5 min): We ask the person about their daily work, seeking insights into the market, visible pain points they experience, and potential opportunities we can explore. This also helps us get to know the interviewee better.
+
+Market Validation Questions (15–20 min): We select three key questions based on the person's role and expertise. During this section, we take detailed notes on their answers, as well as any additional insights their responses may provide.
+
+Extra: If time permits, we will ask an additional key question or, as a secondary option, allow the interviewee to ask us any questions.
 
 #### Interviews Report
 
-### 3. Market Validation
+For this module, we formulated 13 key questions addressing the main gaps we identified in our project. These questions guided our interviews, helping us not only gather valuable insights but also successfully find answers to all of them. This process provided us with a clearer perspective on the next steps and the ideas we plan to develop. The questions covered a range of topics, including legal issues, market success, growth potential and profitability, pain point validation, and target audience.
+
+### 3. Product Adhesion Research 
 
 #### Product Adhesion Forms
 
+We developed two Google Forms — one in English and one in Portuguese — to collect responses from potential users. The goal was to assess fan satisfaction with their experience as eSports enthusiasts, evaluate their openness to incorporating an eSports app into their daily routine, and gather demographic data. We successfully received over 60 responses from fans of 15 different games, spanning more than 15 countries across 4 continents.
+
+Both forms remain open, and if you are interested in eSports, we encourage you to participate and share your perspective!
+
+- <a href="https://forms.gle/pBgrtJCaJ8wqcfDV7">English Forms </a>
+<br />
+- <a href="https://forms.gle/bWMdr3GsoAEzXfJH8">Portuguese Forms </a>
+
 #### Product Adhesion Results
+
+We were able to collect several valuable insights, including users’ preferred methods for consuming eSports content, their relationship with and perceptions of the industry, and more. Below are four key insights we would like to highlight:
+
+1. Countries Distribution: Acquiring geographic information is important to us since we aim to launch our product globally. Therefore, we tracked responses by country to ensure our research reached most continents. A quick disclaimer: the goal is not to measure which region has the most eSports fans but rather to assess whether we are reaching a broad global audience.
+
+<img src="../assets/modulo_1/country.png" />
+
+2. Interest in Working in eSports vs. Current Industry Professionals: We cross-referenced two sets of data, one asking people if they had ever considered working in eSports, and the other asking if they currently work in the industry. This led us to discover a low conversion rate, where many people interested in eSports did not actually enter the market.
+
+<img src="../assets/modulo_1/interest.png" />
+
+3. Favorite Teams vs. Merchandise Purchases: We made a relation between people who have a favourite team, and people who buy stuff from those teams. We believed that if someone has a favourite team they are more likely to buy stuff from them, something that was proved false
+
+<img src="../assets/modulo_1/buy-fav.png" />
+
+4. Possible Product Adhesion: Finally, we wanted to measure how open people would be to using an eSports app on a daily basis. We concluded that most users' willingness will depend on how good the app is.
+
+<img src="../assets/modulo_1/usage.png" />
 
 ### 4. Macro Definition
 
 #### Gamefied App
 
+ We have planned for the game app the main activities, which will encompass a diverse range of features, including interactive games, informational content, news updates, professional development tools, and a dedicated marketplace.
+
 #### eSports Consulting Product
+
+For the consulting part of the project, we have categorized the different services we can offer to various types of customers, such as data analysis services, eSports business consulting, and hosting our own events.
+
+#### Content
+
+In the content creation section, we aim to cover a wide range of content relevant to the eSports community, including game analysis, various types of interviews, and eSports news.
+
+#### Games in Focus
+
+We mapped out the major 16 games we aim to cover, selecting them based on the strength and activity of their competitive scenes. Our decision to prioritize these titles is based on a trade-off between each game's relevance and our team's familiarity with them. Additionally, we’ve deferred coverage of games that would likely require content production in Asian languages for a later stage.
 
 ## New Insights
 Throughout our research, we identified numerous needs expressed by both professionals and fans. These insights will be essential for developing new ideas and reinforcing the foundations of our current concepts.
