@@ -65,7 +65,6 @@ We developed two Google Forms — one in English and one in Portuguese — to co
 Both forms remain open, and if you are interested in eSports, we encourage you to participate and share your perspective!
 
 - <a href="https://forms.gle/pBgrtJCaJ8wqcfDV7">English Forms </a>
-<br />
 - <a href="https://forms.gle/bWMdr3GsoAEzXfJH8">Portuguese Forms </a>
 
 #### Product Adhesion Results
