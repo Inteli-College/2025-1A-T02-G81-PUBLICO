@@ -74,19 +74,19 @@ We were able to collect several valuable insights, including users’ preferred 
 
 1. Countries Distribution: Acquiring geographic information is important to us since we aim to launch our product globally. Therefore, we tracked responses by country to ensure our research reached most continents. A quick disclaimer: the goal is not to measure which region has the most eSports fans but rather to assess whether we are reaching a broad global audience.
 
-<img src="../assets/modulo_1/country.png" />
+<img src="./assets/modulo_1/country.png" />
 
 2. Interest in Working in eSports vs. Current Industry Professionals: We cross-referenced two sets of data, one asking people if they had ever considered working in eSports, and the other asking if they currently work in the industry. This led us to discover a low conversion rate, where many people interested in eSports did not actually enter the market.
 
-<img src="../assets/modulo_1/interest.png" />
+<img src="./assets/modulo_1/interest.png" />
 
 3. Favorite Teams vs. Merchandise Purchases: We made a relation between people who have a favourite team, and people who buy stuff from those teams. We believed that if someone has a favourite team they are more likely to buy stuff from them, something that was proved false
 
-<img src="../assets/modulo_1/buy-fav.png" />
+<img src="./assets/modulo_1/buy-fav.png" />
 
 4. Possible Product Adhesion: Finally, we wanted to measure how open people would be to using an eSports app on a daily basis. We concluded that most users' willingness will depend on how good the app is.
 
-<img src="../assets/modulo_1/usage.png" />
+<img src="./assets/modulo_1/usage.png" />
 
 ### 4. Macro Definition
 
