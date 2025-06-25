@@ -51,3 +51,23 @@ Our survey featured several questions that we formulated to better understand th
 #### 11. Would you be interested in connecting with fan members from other teams to interact, compete, and showcase your badges and ranks?
 
 #### 12. Which activities would you be willing to participate in on the app? (Keep in mind that each activity you complete will help you progress in your rewards, similar to a battle pass.)
+
+### 3. Interviews with professionals
+
+We scheduled two interviews with professionals working in marketing of two different eSports teams. Our goal was to engage with professionals who could complement our understanding of how eSports companies make decisions and define their strategies, aiming to gather insights for our project from the perspective of someone who works at a major eSports club. Through these conversations, we were able to validate many of our pivoting hypotheses while also gaining valuable insights and new ideas based on current market needs and strengths, that would later inspire a feature for the fans and be another revenue source.
+
+#### Interview Template
+
+We structured our reusable interview report template into three parts, aiming for a 25 to 30-minute interview:
+
+- Project Pitch Deck and Context, along with Our Presentation (5 min): In this section, we aim to observe the person's reaction to the project, also paying attention to non-verbal cues to understand their thoughts and feelings about it.
+
+- Interviewee Presentation (5 min): We ask the person about their daily work, seeking insights into the market, visible pain points they experience, and potential opportunities we can explore. This also helps us get to know the interviewee better.
+
+- Market Validation Questions (15–20 min): We select three key questions based on the person's role and expertise. During this section, we take detailed notes on their answers, as well as any additional insights their responses may provide.
+
+- Extra: If time permits, we will ask an additional key question or, as a secondary option, allow the interviewee to ask us any questions.
+
+#### Interviews Report
+
+For this module, we formulated 28 key questions addressing areas we do not fully comprehend yet. These questions guided our interviews, helping us not only gather valuable insights but also successfully find answers to all of them. This process provided us with a clearer perspective on the next steps and the ideas we plan to develop. The questions covered a range of topics, focusing mainly on target audience, pain point validation, types of engagement and business models.
