@@ -28,29 +28,29 @@ We revised all segments of the Business Model Canvas, primarily by streamlining 
 
 Our survey featured several questions that we formulated to better understand the current relationship between fans and clubs. We also included questions aimed at identifying the best strategies to deliver an optimal experience for the fans. These are the asked questions:
 
-#### 1. Where are you from?
+- Where are you from?
 
-#### 2. Do you have an favorite esports team?
+- Do you have an favorite esports team?
 
-#### 3. Which team(s) is your favorite?
+- Which team(s) is your favorite?
 
-#### 4. How do you usually engage with your favorite eSports team or with eSports teams in general?
+- How do you usually engage with your favorite eSports team or with eSports teams in general?
 
-#### 5. Have you ever bought merchandise from your favorite team?
+- Have you ever bought merchandise from your favorite team?
 
-#### 6. Have you ever participated in any initiatives to financially support your team? (e.g., membership programs, exclusive events)
+- Have you ever participated in any initiatives to financially support your team? (e.g., membership programs, exclusive events)
 
-#### 7. If your favorite team offered a membership program (where you earn rewards during your membership), would you be interested in signing up?
+- If your favorite team offered a membership program (where you earn rewards during your membership), would you be interested in signing up?
 
-#### 8. Which rewards would you be interested in receiving through a membership program?
+- Which rewards would you be interested in receiving through a membership program?
 
-#### 9. How much would you be willing to pay for a monthly subscription? (Keep in mind that the higher the subscription fee, the better the rewards you can earn.)
+- How much would you be willing to pay for a monthly subscription? (Keep in mind that the higher the subscription fee, the better the rewards you can earn.)
 
-#### 10. Would you be interested in subscribing to more than one membership program?
+- Would you be interested in subscribing to more than one membership program?
 
-#### 11. Would you be interested in connecting with fan members from other teams to interact, compete, and showcase your badges and ranks?
+- Would you be interested in connecting with fan members from other teams to interact, compete, and showcase your badges and ranks?
 
-#### 12. Which activities would you be willing to participate in on the app? (Keep in mind that each activity you complete will help you progress in your rewards, similar to a battle pass.)
+- Which activities would you be willing to participate in on the app? (Keep in mind that each activity you complete will help you progress in your rewards, similar to a battle pass.)
 
 ### 3. Interviews with professionals
 
@@ -71,3 +71,21 @@ We structured our reusable interview report template into three parts, aiming fo
 #### Interviews Report
 
 For this module, we formulated 28 key questions addressing areas we do not fully comprehend yet. These questions guided our interviews, helping us not only gather valuable insights but also successfully find answers to all of them. This process provided us with a clearer perspective on the next steps and the ideas we plan to develop. The questions covered a range of topics, focusing mainly on target audience, pain point validation, types of engagement and business models.
+
+#### Market Research
+
+As part of our project development, we conducted exploratory research aimed at understanding how membership programs are structured and implemented in both traditional sports and the eSports industry. The primary objective was to analyze how these models foster relationships between fans and organizations, considering their structure, goals, benefits, and overall impact on both clubs and supporters.
+
+The research followed a comparative approach, examining national and international case studies to identify common patterns, best practices, and challenges faced in the deployment of fan membership programs, supporter clubs, and digital engagement initiatives. We also explored the specific characteristics of the eSports audience, whose preferences, digital behavior, and expectations differ significantly from those of traditional sports fans.
+
+Key areas of focus included:
+
+- The structure and operation of membership models across different markets;
+
+- The role of technology in enhancing engagement and personalizing the fan experience;
+
+- The importance of recurring revenue and long-term loyalty strategies;
+
+- Common pitfalls observed in unsuccessful implementations.
+
+This research provided a strong theoretical and practical foundation for identifying market opportunities and constraints, helping to inform future decisions regarding the development of digital solutions aimed at building and activating fan communities.
