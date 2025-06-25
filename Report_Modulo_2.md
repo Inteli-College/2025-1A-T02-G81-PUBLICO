@@ -2,7 +2,7 @@
 
 ## Module Overview
 
-This module was initially intended to focus on designing and developing the app. However, after the first sprint, we decided to pivot our solution from an informational app to a fan club platform tailored for digital sports teams. This decision came after identifying weaknesses in our initial thesis and uncovering new opportunities, which led us to shift our strategy toward a B2B model. As a result, several adjustments were made to the project plan, raising new questions and requiring updates to our business documents.
+This module was initially intended to focus on designing and developing the app. However, after the first sprint, we decided to pivot our solution from an informational app to a fan club platform tailored for digital sports teams. This decision came after identifying weaknesses in our initial thesis and uncovering new opportunities, which led us to shift our strategy toward a B2B model. As a result, several adjustments were made to the project plan, raising new questions and requiring updates to our business documents. 
 
 ## Project Pivoting
 
@@ -15,3 +15,15 @@ Following a series of insightful meetings with the mentors provided by Inteli an
 We have identified a promising opportunity in the B2B space: building a digital ecosystem tailored to fan membership programs for eSports clubs. Our platform enables new revenue streams and strengthens fan engagement by offering gamified experiences and providing clubs with actionable insights into both paying members and the wider audience.
 
 At the core of our strategy is the idea of leveraging each club’s fanbase and brand to drive user acquisition and participation. Clubs retain full control over the rewards and benefits they offer, ensuring autonomy and alignment with their community. Our role is to provide the underlying technology and tools — allowing clubs to launch and manage these programs efficiently, without needing to build the infrastructure themselves.
+
+## Artifacts
+
+### 1. Business Model Canvas
+
+We revised all segments of the Business Model Canvas, primarily by streamlining features, resources, and customer segments that are no longer directly targeted by our product. We maintained the differentiation of yellow post-its for immediate actions and red post-its for activities planned for a slightly longer timeframe.
+
+<img src="./assets/modulo_2/BMC.png"/>
+
+### 2. User Research Forms
+
+Our survey featured several questions that we formulated to better understand the current relationship between fans and clubs. We also included questions aimed at identifying the best strategies to deliver an optimal experience for the fans.
