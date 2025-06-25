@@ -26,4 +26,28 @@ We revised all segments of the Business Model Canvas, primarily by streamlining 
 
 ### 2. User Research Forms
 
-Our survey featured several questions that we formulated to better understand the current relationship between fans and clubs. We also included questions aimed at identifying the best strategies to deliver an optimal experience for the fans.
+Our survey featured several questions that we formulated to better understand the current relationship between fans and clubs. We also included questions aimed at identifying the best strategies to deliver an optimal experience for the fans. These are the asked questions:
+
+#### 1. Where are you from?
+
+#### 2. Do you have an favorite esports team?
+
+#### 3. Which team(s) is your favorite?
+
+#### 4. How do you usually engage with your favorite eSports team or with eSports teams in general?
+
+#### 5. Have you ever bought merchandise from your favorite team?
+
+#### 6. Have you ever participated in any initiatives to financially support your team? (e.g., membership programs, exclusive events)
+
+#### 7. If your favorite team offered a membership program (where you earn rewards during your membership), would you be interested in signing up?
+
+#### 8. Which rewards would you be interested in receiving through a membership program?
+
+#### 9. How much would you be willing to pay for a monthly subscription? (Keep in mind that the higher the subscription fee, the better the rewards you can earn.)
+
+#### 10. Would you be interested in subscribing to more than one membership program?
+
+#### 11. Would you be interested in connecting with fan members from other teams to interact, compete, and showcase your badges and ranks?
+
+#### 12. Which activities would you be willing to participate in on the app? (Keep in mind that each activity you complete will help you progress in your rewards, similar to a battle pass.)
