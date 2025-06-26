@@ -94,3 +94,6 @@ This research provided a strong theoretical and practical foundation for identif
 
 Based on the new product direction, we developed a series of diagrams to illustrate key aspects of our business model, app user flows, and revenue structure. Although these materials will not be publicly shared for privacy and strategic reasons, they were thoroughly reviewed and refined with guidance and feedback from our academic advisor.
 
+### 5. Requirements
+
+Based on the previously mentioned flows, we developed a comprehensive list of requirements that includes: functional and non-functional requirements, security aspects, and their corresponding user stories, all aligned with the defined personas.
