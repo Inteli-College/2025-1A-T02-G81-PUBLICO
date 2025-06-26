@@ -89,3 +89,8 @@ Key areas of focus included:
 - Common pitfalls observed in unsuccessful implementations.
 
 This research provided a strong theoretical and practical foundation for identifying market opportunities and constraints.
+
+### 4. Diagrams and Process Flows
+
+Based on the new product direction, we developed a series of diagrams to illustrate key aspects of our business model, app user flows, and revenue structure. Although these materials will not be publicly shared for privacy and strategic reasons, they were thoroughly reviewed and refined with guidance and feedback from our academic advisor.
+
