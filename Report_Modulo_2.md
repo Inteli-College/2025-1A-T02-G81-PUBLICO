@@ -97,3 +97,67 @@ Based on the new product direction, we developed a series of diagrams to illustr
 ### 5. Requirements
 
 Based on the previously mentioned flows, we developed a comprehensive list of requirements that includes: functional and non-functional requirements, security aspects, and their corresponding user stories, all aligned with the defined personas.
+
+### 6. Naming Process
+
+We focused on strategically developing the product name using a framework called SNP (Strategic Naming Process), aiming to create an associative name that reflects modernity, technology, competition, and trust.
+
+The implementation of this framework requires the development of a Mission and Vision, which are currently defined as:
+
+- Mission: Use digital solutions to foster connection and increase fans’ sense of belonging
+
+- Vision: We believe that the connection between fans and clubs is the foundation for driving eSports culture forward
+
+We arrived at the name Invicy a name that is easy to pronounce globally, does not limit the company’s scope of activities, evokes invincibility, competition, and excellence, and ends with the “cy” suffix, which subtly conveys a sense of technology.
+
+### 7. Pitch and Slides
+
+We developed the initial version of our pitch and slides to validate the flow and storytelling. The initial feedback was positive, and we will now focus on refining the slide design and content, while simultaneously improving our speaking script.
+
+#### Speaking Script v.01
+
+Our speaking script, at this initial stage, focused on presenting:
+
+- A storytelling approach based on the evolution of the market and the current/expected average ticket per customer in the eSports industry
+
+- A conceptual introduction to our solution
+
+- A clear explanation of how each feature of our solution works
+
+- The benefits of the solution
+
+- The unique differentiators of our solution
+
+- The next steps, highlighted through a roadmap
+
+### 8. Next Steps
+
+For the next steps of the project, we are directly aiming to address the lack of certain materials and definitions that we do not yet have, as listed below:
+
+#### Platform Design
+
+- App design
+- CRM design
+- Refine user flow
+
+#### Requirements
+
+- Develop CRM requirements
+- Improve the current requirements list
+- Refine user stories
+- Develop tasks
+
+#### System
+
+- Refine software architecture
+- Map endpoints
+- Configure repositories
+
+#### Business
+
+- Map cost and expense structure: include profit and taxes
+- Refine commercial pitch
+- Refine commercial presentation slides
+- Structure Notion workspace
+
+Once most of these are ready, we will hold meetings with the clients mapped in the spreadsheet and effectively develop the product after validation by the clients (or pivot if necessary).
