@@ -2,7 +2,7 @@
 
 As requested for the final deliverable, we consolidated our previous materials and reports into the template provided by Inteli, covering all development processes, the product, the business model, references, and all other relevant aspects.
 
-Check the documento clicking <a href="./2VS_Template_TCC_Inteli Empreendedor.docx.pdf"> Here </a>
+Check the documento clicking <a href="./2VS_TCC_Inteli_Empreendedor.pdf"> Here </a>
 
 # Business Plan
 
